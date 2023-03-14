@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Monu Simon M
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on FE related projects. 
 - 📫 How to reach me https://www.linkedin.com/in/monusimonm/
 
